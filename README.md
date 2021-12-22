@@ -1,8 +1,8 @@
 # augmont-gold-demo
 
 ### To run project run below commands
-##### npm install
-##### npm start
+#####  - npm install
+#####  - npm start
 
 ### Below are available endpoints once you run it
 ##### 
